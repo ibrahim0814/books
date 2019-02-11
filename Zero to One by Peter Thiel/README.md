@@ -330,7 +330,7 @@
 * The best problems to work on are often the ones nobody else even tries to solve
 * A valuable business must start by finding a niche and dominating a small market
 
-#### Chapter 14: The Founder’s Paradox
+### Chapter 14: The Founder’s Paradox
 
 * Are all founders unusual people?
 * Almost all successful entrepreneurs are simultaneously insiders and outsiders
@@ -354,7 +354,7 @@
 * To believe yourself invested with decide self-sufficiency is not the mark of a strong individual, but of a person who has mistaken the crowd’s worship — or jeering — for truth.
 * _The single greatest danger for a founder is to become so certain of his own myth that he loses his mind_
 
-#### Conclusion: Stagnation or Singularity?
+### Conclusion: Stagnation or Singularity?
 
 * Is there anything to say about the very distant future?
 * Nick Bostrom describes 4 possible patterns
