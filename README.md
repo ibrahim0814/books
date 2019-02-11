@@ -5,4 +5,4 @@ This is a repository containing notes from books I've read! My aim is to synthes
 I directly transcribe self-underlined or self-highlighted sentences from the book's pages so most of everything contained inside the notes are quotations. Some additional commentary is added when context is spase, but this is rare. These are essentially documents of direct quotes from the book itself.
 
 ## Repo Updates
-I anticipate I'll upadate this repository every 2-2.5 weeks with a new book. It takes a while to read and identify important quotations from a book and then type them out. It's painstaking to do, but will be useful in the long term. 
+I anticipate I'll update this repository every 2-2.5 weeks with a new book. It takes a while to read and identify important quotations from a book and then type them out. It's painstaking to do, but will be useful in the long term. 
