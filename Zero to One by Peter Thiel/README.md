@@ -335,7 +335,7 @@
 * Are all founders unusual people?
 * Almost all successful entrepreneurs are simultaneously insiders and outsiders
 * The famous and infamous have always served as vessels for public sentiment: they’re praised amid prosperity and blamed for misfortune.
-* The Aztecs considered their victims to be earthly forms of the gods and then they cut your heart out. These are the roots monarchy: every kind was a living god, and every god a murdered king. Perhaps every modern king is just a scapegoat who has managed to delay his own execution
+* The Aztecs considered their victims to be earthly forms of the gods and then they cut your heart out. These are the roots of monarchy: every king was a living god, and every god a murdered king. Perhaps every modern king is just a scapegoat who has managed to delay his own execution
 * Celebrities are supposedly American royalty
 * But Elvis self destructed, Michael Jackson turned into a drug-addicted shell of his former self. Brittney shaved her head.
 * Perhaps the only way to be a rock god forever is to die an early death
