@@ -1,4 +1,6 @@
-# Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel 
+## Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel 
+
+### Preface
 
 * It’s easier to copy a model than to make something new. It is entirely difficult
 * The best paths are new and untried
@@ -19,6 +21,9 @@
 * A new company’s most important strength is new thinking
 * This book is an exercise in thinking 
 * Need to rethink business from scratch
+
+### Chapter 1: Party Like It's 1999
+
 * “Madness is rare in individuals, but in groups, parties, nations, and ages it is the rule” - Nietzsche
 * Only seeking profit is pedestrian — don’t do it
 * Always question what we think we know about the past
@@ -29,6 +34,9 @@
 * Improving on recognizable products offered by successful companies is sometimes the move
 * If your product requires advertising or salespeople to sell, it’s not good enough
 * ^However, that doesn’t mean the opposite ideas aren’t true (think for yourself)
+
+### Chapter 2: All Happy Companies Are Different
+
 * Creating value is not enough, you also need to capture some of the value you create (think about profit margins)
 * Every firm in a competitive market is undifferentiated and sells the same homogenous products
 * Under perfect competition, in the long run, no company in a competitive marketplace makes a profit
@@ -46,6 +54,9 @@
 * If you’re in a competitive market, some other undifferentiated competitor will always be ready to take your place
 * In the real world outside economic theory, every business is successful exactly to the extent that it does something others cannot. monopoly is therefore not a pathology or an exception, monopoly is the condition of every successful business
 * All failed companies are the same: they failed to escape competition
+
+### Chapter 4: The Ideology of Competition
+
 * Creative monopolies means new products that benefit everybody and sustainable profits for the creator
 * We preach competition, internalize its necessity, and enact its commandments and as a result, we trap ourselves within it - even though the more we compete, the less we gain
 * We teach every young person the same subjects in mostly the same ways, irrespective of individual talents and preferences
@@ -55,6 +66,10 @@
 * Does the market you’re entering in even make sense?
 * If you can’t beat a rival, it may be better to merge
 * Calmer heads always prevail. Hot heads fight for things that don’t matter. Always make sure to approach a heated situation with a clear head. 
+
+### Chapter 5: Last Mover Advantage
+
+* A great business is defined by its ability to generate cash flows in the future
 * It takes time to build valuable things and that means delayed revenue 
 * Most of a tech company’s value will come at least 10-15 years in the future
 * For a company to be valuable, it must grow and endure
@@ -85,6 +100,9 @@
 * It is much more important to make the last great development in a specific market instead of being a first mover. That way, you can learn from past mistakes. You must study the endgame before everything else.
 * You are not a lottery ticket
 * Success is never accidental
+
+### Chapter 6: You Are Not A Lottery Ticket
+
 * Every company starts in unique circumstances and every company starts only once. Statistics don’t work when the sample size is one.
 * Strong men and women believe in cause and effect
 * If you treat the future as something definite it makes sense to understand it in advance and to work to shape it
@@ -110,6 +128,9 @@
 * We have to find our way back to a definite future
 * A startup is the largest endeavor over which you can have definite mastery
 * The important thing to remember is that you are  not a lottery ticket
+
+### Chapter 7: Follow The Money
+
 * Never underestimate exponential growth
 * Use the power law to your advantage
 * Most startups fail and most funds fail with them
@@ -130,6 +151,9 @@
 * The power law means that differences between companies will dwarf the differences in roles inside companies
 * In a power law world, can’t afford not to think hard about where your actions will fall on the curve
 * You can achieve difficult things, but can’t achieve the impossible
+
+### Chapter 8: Secrets
+
 * Think about: what valuable company is nobody building?
 * If everything worth doing has already been done you may as well feign an allergy to achievement and become a barista
 * Religious fundamentalism for example allows no middle ground for hard questions
@@ -153,7 +177,9 @@
 * What secrets is nature not telling you? What secrets are people not telling you? 
 * People who think they know everything, actually know nothing
 * Every great business is built around a secret that’s hidden from the outside.  A great company is a conspiracy to change the world. When you share your secret the recipient becomes a fellow conspirator. 
-* Foundations
+
+### Chapter 9: Foundations
+
 * A startup messed up at its foundation cannot be fixed
 * Fundamental questions were open for debate by the framers during the first few months thy spent together at the constitutional convention
 * If you choose the wrong partners or hire the wrong people — these mistakes are very hard to correct after they are made
@@ -191,21 +217,20 @@
 * Anyone who prefers owning a part of your company to being paid in cash reveals a preference for the long term and a commitment to increasing your company’s value in the future
 * The founding moment of a company really does happen just once: only at the very start
 * A second, less obvious understanding of the founding: it lasts as long as a company is creating new things, and it ends when creation stops. If you get the founding moment right, you can do more than create a valuable company: you can steer its distance future toward the creation of new things instead of the stewardship of inherited success
-* The mechanics of mafia
+
+### Chapter 10: The Mechanics of Mafia
+
 * Employees should love their work. They should enjoy going to the office so much that formal business hours become obsolete and no-body watches the clock — this picture has vision, but no substance. Without substance, perks don’t work. 
-* Beyond professionalism
 * The culture was strong enough to transcend the original company [while talking about paypal] 
 * Why work with a group of people who don’t even like each other? [rhetorical question]
 * By taking a merely professional view of the workplace, in which free agents check-in and check-out on a transactional basis, is worse than cold: it’s not even rational. Since time is your most valuable asset, it’s odd to spend it working with people who don’t envision any long-term future together. 
 * Stronger relationships would make us not just happier and better at work but also more successful in our careers even beyond PayPal
-* Recruiting conspirators
 * Why should the 20th employee join your company?
 * Talented people don’t need to work for you: they have plenty of options
 * Bad answers to this question: stock options, smartest people in the world, challenging problems. General and undifferentiated pitches don’t say anything about why a recruit should join your company instead of many others
 * Good answers: mission and answers about your team. you have to be able to explain why your mission is compelling. the opportunity to do irreplaceable work on a unique problem alongside great people. 
 * Ask yourself, are these the kind of people I want to work with? You should be able to explain why your company is a unique match for him personally
 * Don’t fight the perk war — its pointless
-* What’s under silicon valley’s hoodies
 * From the outside, everyone in your company should be different in the same way
 * The startup uniform encapsulates a simple but essential principal: everyone at your company should be different in the same way — a tribe of like-minded people fiercely devoted to the company’s mission
 * Startups should make their early staff as personally similar as possible.
@@ -214,79 +239,69 @@
 * On the inside, every individual should be sharply distinguished by her work
 * Individual roles can’t remain static for long
 * The best thing I did as a manager at paypal was to make every person in the company responsible for doing just one thing. Every employee’s one thing was unique and everyone knew I would evaluate him or her based on that. 
-* Defining roles reduces conflict
+* _Defining roles reduces conflict_
 * More than that, internal peace is what enables a startup to survive at all
 * Internal conflict is like an autoimmune disease: the technical cause of death may be pneumonia, but the real cause remains hidden from plain view.
-* Of cults and consultants
 * In the most intense kind of organization, members hang out only with other members. We have a word for such organizations: cults. 
 * The best startups might be considered slightly less extreme kinds of cults. It’s better to be called a cult - or even a mafia. 
-* If you build it, will they come?
+
+### Chapter 11: If You Build It, Will They Come?
+
 * Even though sales is everywhere, most people underrate its importance. 
 * Distribution may not matter in fictional worlds, but it matters in ours. 
 * But customers will not come just because you build it. You have to make that happen and its harder than it looks.
 * Advertising matters because it works. It works on nerds, and it works on you too.
 * Advertising doesn’t exist to make you buy a product right away; it exists to embed subtle impressions that will drive sales later.
 * Sales is the opposite: an orchestrated campaign to change surface appearances without changing the underlying reality
-* What nerds miss is that it takes hard work to make sales look easy
+* What nerds miss is that _it takes hard work to make sales look easy_
 * Like acting, sales works best when hidden
 * People who sell advertising are called ‘account executives’. People who sell customers work in ‘business development’. People who sell companies are ‘investment bankers’. And people who sell themselves are called politicians. There’s a reason for these redescriptions: none of us wants to be reminded that we’re being sold. 
 * Whatever the career, sales ability distinguishes superstars from also-rans. 
 * The most fundamental reason that even businesspeople underestimate the importance of sales is the systematic effort to hide it at every level of every field in a world secretly driven by it. 
 * The engineer’s grail is a product great enough that ‘it sells itself’. But anyone who would actually say this about a real product must be lying
 * If you’ve invented something new but you haven’t invented an effective way to sell it, you have a bad business — no matter how good the product
-* How to sell a product
 * Superior sales and distribution by itself can create a monopoly, even with no product differentiation
 * No matter how strong your product, you must still support it with a strong distribution plan
 * Customer value (over lifetime) > customer acquisition cost
-* Complex sales
 * If you average sale is seven figures or more, every detail of every deal requires close personal attention. It might take months to develop the right relationships. It’s hard to do, but this kind of ‘complex sales’ is the only way to sell some of the most valuable products
 * Politics matters in big deals just as much as technological ingenuity (EPIC TERMS)
 * Complex sales requires making just a few deals each year
 * Elon Musk is a sales grandmaster
 * Complex sales works best when you don’t have salesmen at all — usually the CEO is working out most of these deals because they are so large
 * Good enterprise sales strategy starts small, as it must
-* Personal sales
 * Might range between 10,000 and 100,000
 * The difficulty here to establish a process by which a sales team of modest size can move the product to a wide audience (ZocDoc)
-* Distribution doldrums 
 * In between personal sales and traditional advertising there is a dead zone. Distribution channels become too hard to manage. Suppose you’re dealing with a $1000 product. There’s no good way to distribute this via a sales team
-* Marketing and advertising 
 * TV is a great big megaphone and when you can only afford to spend dozens acquiring a new customer, you need the biggest megaphone you can find
-* Viral marketing
 * If every new user leads to more than one additional user, you can achieve a chain reaction of exponential growth
 * Whoever is first to dominate the most important segment of a market with viral potential will be the last mover in the whole market
-* Power law of distribution
 * Most businesses get zero distribution channels to work: poor sales rather than bad product is the most common cause of failure. If you can get just one distribution channel to work, you have a great business
-* Selling to non customers
-* ‘This company is so good that people will be clamoring to join it’. ’This company is so great that investors will be banging down our door to invest. 
+* Selling to non-customers: ‘This company is so good that people will be clamoring to join it’. ’This company is so great that investors will be banging down our door to invest. 
 * Selling your company to the media is a necessary part of selling it to everyone else. Nerds who instinctively mistrust the media often make the mistake of trying to ignore it. 
 * The press can help attract investors and employees
 * Everybody sells
-* Look around. If you don’t see any sales-people, you’re the salesperson
-* Man and machine
+* _Look around. If you don’t see any sales-people, you’re the salesperson_
 * Computers already have enough power to outperform people in activities we used to think of as distinctly human.
 * Everyone expects computers to do more in the future 
 * Have to understand: computers are complements for humans, not substitutes. The most valuable businesses of comping decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete. 
-* Substitution vs complementary
 * People compete for jobs, and for resources; computers compete for neither
-* Globalization mean substitution
+* Globalization = substitution
 * People don’t just compete to supply labor, they also demand the same resources
-* Technology means complementarity
+* Technology = complementarity
 * Computers are exactly the opposite: they excel at efficient data processing, but they struggle to make basic judgements that would be simple for any human
 * Computers are tools not rivals
 * When we design new computer technology to help solve problems, we get all the efficiency gains of a hyper specialized trading partner without having to compete with it for resources
-* Complementary business
 * Theil talks about Igor, a fraud detection system that works with human beings to solve credit card fraud
 * This kind of man-machine symbiosis enabled PayPal to stay in business
 * Think of what professionals do in their jobs today. Computers might be able to do some of these tasks, but they can’t combine them
 * Better technology in law, medicine, and education won’t replace professionals; it will allow them to do even more
 * Today, more than 97% of recruiters use LinkedIn and its powerful search and filtering functionality
-* The Ideology of CS
 * Today’s companies have an insatiable appetite for data, mistakenly believing that more data always creates more value. But big data is usually dumb data. Computer’s don’t know how to compare patterns from different sources or how to interpret complex behaviors
 * The most valuable companies in the future won’t ask what problems can be solved with computer alone. Instead, they’ll ask: how can computers help humans solve hard problems 
-* Ever smarter computers: friend or foe?
 * Indefinite fears about the far future shouldn’t stop us from making definite plans today
-* Seeing Green
+
+### Chapter 13: Seeing Green
+
 * Most clean tech companies crashed because they neglected one more of the seven questions every business must answer
 * The 7 questions every business must answer (Tesla is a great example of a company that nailed all seven of these questions)
     * The engineering question: Can you create breakthrough technology instead of incremental improvements?
@@ -310,25 +325,23 @@
     * The secret question: Have you identified a unique opportunity that others don’t see?
         * (Talking about clean tech) They deluded themselves into believing that an overwhelming social need for alternative energy solutions implied an overwhelming business opportunity for clean tech companies of all kinds
         * Great company have secrets: specific reasons for success that other people don’t see
-* The myth of social entrepreneurship 
-    * Whatever is good enough to receive applause from all audiences can only be conventional, like the general idea of green energy
-    * The best problems to work on are often the ones nobody else even tries to solve
-* Energy 2.0
+* Social entrepreneurship is a myth
+* Whatever is good enough to receive applause from all audiences can only be conventional, like the general idea of green energy
+* The best problems to work on are often the ones nobody else even tries to solve
 * A valuable business must start by finding a niche and dominating a small market
-* The founder’s paradox
+
+#### Chapter 14: The Founder’s Paradox
+
 * Are all founders unusual people?
 * Almost all successful entrepreneurs are simultaneously insiders and outsiders
-* Where kings come from
 * The famous and infamous have always served as vessels for public sentiment: they’re praised amid prosperity and blamed for misfortune.
 * The Aztecs considered their victims to be earthly forms of the gods and then they cut your heart out. These are the roots monarchy: every kind was a living god, and every god a murdered king. Perhaps every modern king is just a scapegoat who has managed to delay his own execution
-* American royalty
 * Celebrities are supposedly American royalty
 * But Elvis self destructed, Michael Jackson turned into a drug-addicted shell of his former self. Brittney shaved her head.
 * Perhaps the only way to be a rock god forever is to die an early death
 * We alternatively worship and despise technology founders just as we do celebrities
 * (Talking about Howard Hughes, tech entrepreneur, obsessed with flying planes) He liked to remind people that he was a mere mortal, not a greek god — something that mortals say only when they want to invite comparisons to gods. But when his crazy act turned into a crazy life, he became an object of pity as much as awe
 * (Talking about bill gates and his fate) A court ordered that Microsoft be broken apart. Gates spend most of his time responding to legal threats instead of building new technology. 
-* The return of the king
 * Steve Job’s return to apple demonstrated the irreplaceable value of company’s founder
 * Jobs was also the insider of his own personality cult. He could act charismatic or crazy, perhaps according to his mood or perhaps according to his calculations. 
 * But all his eccentricity backfired on him in 1985 when Apple’s board kicked jobs out his own company when he clashed with the professional CEO brought in to provide adult supervision.
@@ -339,8 +352,10 @@
 * The lesson for founders is that individual prominence and adulation can never be enjoyed except on the condition that it may be exchanged for individual notoriety and demonization at any moment — so be careful
 * Founders are important because a great founder can bring out the best work from everybody at his company
 * To believe yourself invested with decide self-sufficiency is not the mark of a strong individual, but of a person who has mistaken the crowd’s worship — or jeering — for truth.
-* The single greatest danger for a founder is to become so certain of his own myth that he loses his mind 
-* Conclusion: Stagnation or singularity
+* _The single greatest danger for a founder is to become so certain of his own myth that he loses his mind_
+
+#### Conclusion: Stagnation or Singularity?
+
 * Is there anything to say about the very distant future?
 * Nick Bostrom describes 4 possible patterns
 * Recurrent collapse (ups and downs), Plateau, Extinction, or Takeoff 
