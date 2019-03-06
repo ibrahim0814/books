@@ -10,7 +10,7 @@
 * The Feedback Loop from hell: You feel so guilty for every mistake you make that you begin to feel guilty about how guilty you’re feeling. or you get sad and alone so often that it makes you feel even more sad and alone just thinking about it.
 * We feel bad about feeling bad. We feel guilty for feeling guilty. We get angry about getting angry. We get anxious about feeling anxious. What is wrong with me? This is why not giving a fuck is so key
 * By not giving a fuck that you feel bad, you short-circuit the Feedback Loop from Hell
-* The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience. (BOLD)
+* **The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.** 
 * "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life” — Albert Camus
 * Pursuing the negative generates the positive
 * Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. 
