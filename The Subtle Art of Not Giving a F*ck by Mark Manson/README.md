@@ -5,7 +5,7 @@
 * The dream: a man fights for what he wants, never gives up  and eventually achieves his wildest dreams
 * (Talking about a writer named Bukowski) The genius in Bukowski’s work...was his simple ability to be completely, unflinchingly honest with himself — especially the worst parts of himself — and to share his failings without hesitation or doubt
 * Conventional life advice actually fixates on what you lack. It lasers in on what you perceive your personal shortcomings and failures to already be, and then emphasizes them for you
-* The problem is that giving too many fucks is bad your mental health
+* The problem is that giving too many fucks is bad for your mental health
 * **The key to a good life…is giving a fuck about only what is true and immediate and important**
 * The Feedback Loop from hell: You feel so guilty for every mistake you make that you begin to feel guilty about how guilty you’re feeling. or you get sad and alone so often that it makes you feel even more sad and alone just thinking about it.
 * We feel bad about feeling bad. We feel guilty for feeling guilty. We get angry about getting angry. We get anxious about feeling anxious. What is wrong with me? This is why not giving a fuck is so key
