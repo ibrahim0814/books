@@ -1,4 +1,4 @@
-## Give and Take: Why Helping Others Drives Out Success by Adam Grant
+## Give and Take: Why Helping Others Drives Our Success by Adam Grant
 
 ### Chapter 1: Good Returns
 
