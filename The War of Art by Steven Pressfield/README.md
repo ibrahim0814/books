@@ -63,7 +63,7 @@
 * The field is level, the professional understands, only in heaven
 * The professional prepares mentally to absorb blows and to deliver them
 * The professional does not show off
-* **The professional respects his craft. The professional dedicates himself to mastering technique not because he believes technique is a substitute for inspiration but because he wants to be in possessional of the full arsenal of skills**
+* **The professional respects his craft. The professional dedicates himself to mastering technique not because he believes technique is a substitute for inspiration but because he wants to be in possession of the full arsenal of skills**
 * **The professional seeks out the most knowledgable teacher and listens with both ears. The levels of revelation are inexhaustible.**
 * Madonna does not identify with Madonna. Madonna employs Madonna. 
 * The professional does not take failure or success personally
