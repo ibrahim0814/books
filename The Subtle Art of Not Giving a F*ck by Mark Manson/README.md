@@ -48,7 +48,7 @@
 * Happiness is a constant work-in-progress, because solving problems is a constant work in progress 
 * True happiness occurs only when you find the problems you enjoy having and enjoy solving
 * How not to solve problems: 1) Denial of problems 2) Victimhood mentality
-* **High’s are shallow and unproductive ways to go about one’s life**
+* **Highs are shallow and unproductive ways to go about one’s life**
 * High’s also generate addiction. The more you rely on them to feel better about your underlying problems, the more you will seek them out.
 * Just because something feels good doesn’t mean it is good. Just because something feels bad doesn’t mean it is bad. We shouldn’t always trust our emotions. 
 * Remember, pain serves a purpose
