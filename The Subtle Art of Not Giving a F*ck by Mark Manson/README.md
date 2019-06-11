@@ -114,7 +114,7 @@
 * **Good values**
     * Reality based, socially constructive, immediate and controllable
     * **Honesty, innovation, vulnerability, standing up for yourself, standing up for others, self-respect, curiosity, charity, humility, creativity (healthy values are achieved internally)**
-* **Self improvement in a nutshell: prioritizing better values, choosing better things to give a fuck about***
+* **Self improvement in a nutshell: prioritizing better values, choosing better things to give a fuck about**
 
 ### Chapter 5: You Are Always Choosing
 
@@ -249,6 +249,6 @@
 * The Stoics of ancient Greece and Rome implored people to keep death in mind at all times, in order to appreciate life more and remain humble in the face of its adversities
 * Mark Twain: “A man who lives fully is prepared to die at any time"
 * **Confronting the reality of our own mortality is important because it obliterates all the crappy, fragile, superficial values in life.** 
-* Ask yourself: What’s your legacy?
+* **Ask yourself: What’s your legacy?**
 * **The only way to be comfortable with death is to understand and see yourself as something bigger than yourself; to choose values that stretch beyond serving yourself, that are simple and immediate and controllable and tolerant of the chaotic world around you. This is the basic root of all happiness.** 
 * You too are going to die, and that’s because you too were fortunate enough to have lived. 
