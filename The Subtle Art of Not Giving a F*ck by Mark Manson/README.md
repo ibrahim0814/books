@@ -2,7 +2,7 @@
 
 ### Chapter 1: Don’t Try
 
-* The dream: a man fights for what he wants, never gives up  and eventually achieves his wildest dreams
+* The dream: someone fights for what they want, never gives up  and eventually achieves their wildest dreams
 * (Talking about a writer named Bukowski) The genius in Bukowski’s work...was his simple ability to be completely, unflinchingly honest with himself — especially the worst parts of himself — and to share his failings without hesitation or doubt
 * Conventional life advice actually fixates on what you lack. It lasers in on what you perceive your personal shortcomings and failures to already be, and then emphasizes them for you
 * The problem is that giving too many fucks is bad for your mental health
