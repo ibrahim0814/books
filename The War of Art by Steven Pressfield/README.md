@@ -77,7 +77,7 @@
 * The professional endures adversity. He lets the birdshit splash down on his slicker, remembering that it comes clean with a heavy duty hosing. 
 * It’s better to be in the arena taking punches instead of sitting on the sideline
 * A professional self-validates
-* **Govern your own emotions, so not act reflexively - Ib**
+* **Govern your own emotions, so do not act reflexively - Ib**
 * Learn compassion and let go of fury
 * The professional cannot allow the actions of others to define his reality
 * The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had the guts. 
