@@ -1,4 +1,4 @@
-## Rework by Jason Fried and David Heinemeier Hansson 
+## Rework by Jason Fried & David Heinemeier Hansson 
 
 ### First
 
