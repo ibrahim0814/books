@@ -99,6 +99,6 @@
 * Working remotely doesn’t have to mean working from home. Co-working spaces are also an option
 * **There are two fundamental ways not to be ignored at work: make noise or make progress. Do the latter - Ib**
 
-Conclusion 
+### Conclusion 
 
 * **Remote work is here, and it’s here to stay.** The only question is whether you’ll be part of the early adopters, the early majority, the late majority, the laggards
