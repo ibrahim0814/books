@@ -14,5 +14,5 @@ I anticipate I'll update this repository every 3-4 weeks with a new book. It tak
 ## Usage
 Feel free to download and modify your own copies of these notes as you wish! Since most of these notes are quotations, I'm somewhat wary of copyright issues. My intention is not to cause others harm and if I've violated any rules by uploading these notes, please contact me, preferebly in a non-angry way.
 
-### Author
+## Author
 Created by Ibrahim Ali. Contact: ibrahim.ali@vanderbilt.edu
