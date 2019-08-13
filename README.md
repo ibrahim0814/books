@@ -1,4 +1,6 @@
 # Books
+
+## What is this?
 This is a repository containing notes from books I've read! My aim is to synthesize the most important quotes and concepts from any piece of text such that when I want to refresh myself on the contents again, I (and hopefully others!) can do so very quickly. 
 
 ## Process
